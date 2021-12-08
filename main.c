@@ -1,8 +1,7 @@
-#include <stdbool.h>
+#include "isOdd.h"
+
 #include <stdio.h>
 #include <stdlib.h>
-
-bool isOdd(int n) { return n % 2 == 1; }
 
 int main(int argc, char *argv[]) {
   if (argc == 1) {
