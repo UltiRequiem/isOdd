@@ -1,6 +1,8 @@
 # isOdd
 
-I always wanted to do something in C.
+[![CI](https://github.com/UltiRequiem/isOdd/actions/workflows/ci.yaml/badge.svg)](https://github.com/UltiRequiem/isOdd/actions/workflows/ci.yaml)
+
+I always wanted to do something written in C.
 
 ## Usage
 
